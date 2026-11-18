@@ -164,6 +164,7 @@ This project is licensed under the GPL-3.0 License. See the LICENSE file for det
 
 ## Citation
 
-Please cite CRYSTAL23 (doi:10.1021/acs.jctc.2c00958), phonopy (doi:10.1016/j.scriptamat.2015.07.021,
-doi:10.1088/1361-648X/acd831), spglib (doi:10.1080/27660400.2024.2384822) and the crystaltools
-paper (in preparation).
+Please cite 
+T. M. Gesing, S. Oppelt, I. de Bloom, L. Robben and W. Dononelli; Band-gap tuning of low iron substituted mullite-type O9 bismuth aluminates: structural, spectroscopic, optical and photo-catalytic properties; (2026), in preparation.
+
+in addition cite CRYSTAL23 (doi:10.1021/acs.jctc.2c00958), phonopy (doi:10.1016/j.scriptamat.2015.07.021, doi:10.1088/1361-648X/acd831) and spglib (doi:10.1080/27660400.2024.2384822) 
